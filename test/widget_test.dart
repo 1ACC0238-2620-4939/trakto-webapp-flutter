@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:trakto_route_flutter/main.dart';
+import 'package:trakto_route_flutter/app/trakto_app.dart';
 
 void main() {
   testWidgets('Navegación y formularios con listas vacías', (tester) async {
